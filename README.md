@@ -97,7 +97,7 @@ After this presentation, you should understand:
 ---
 
 
-### 📞 Course Information
+### ℹ️ Course Information
 
 | Detail | Information |
 | :--- | :--- |
