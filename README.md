@@ -107,9 +107,6 @@ After this presentation, you should understand:
 | **Format** | Presentation Slides (PDF) |
 | **Prerequisites** | Linear Algebra, Calculus, Machine Learning Basics |
 | **Delivery** | Classroom presentation with discussion |
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B&height=100&section=footer" width="100%"/>
 </div>
